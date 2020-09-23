@@ -1,0 +1,43 @@
+
+.string-highlight {
+    color: black;
+}
+#typewriter {
+    font-family: "Verdana", sans-serif;
+    font-size: 30px;
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+    color: black;
+    line-height: 2em; 
+    font-weight: 400;
+    font-style: initial;
+}
+#typewriter:after {
+    content: "|";
+    animation: blink 500ms linear infinite alternate;
+}
+@-webkit-keyframes blink {
+    0% {
+        opacity: 0;
+   }
+    100% {
+        opacity: 1;
+   }
+}
+@-moz-keyframes blink {
+    0% {
+        opacity: 0;
+   }
+    100% {
+        opacity: 1;
+   }
+}
+@keyframes blink {
+    0% {
+        opacity: 0;
+   }
+    100% {
+        opacity: 1;
+   }
+}
