@@ -3037,9 +3037,9 @@ font-weight: 400;
 }
 
 .portfolio-section .project-block .project-title {
-  width: -webkit-calc(30%);
-  width: -moz-calc(30%);
-  width: calc(30%);
+  width: -webkit-calc(35%);
+  width: -moz-calc(35%);
+  width: calc(35%);
   float: left;
   padding-left: 10px;
   padding-right: 10px;
@@ -3061,9 +3061,9 @@ font-weight: 400;
 }
 
 .portfolio-section .project-block .project-desc {
-  width: -webkit-calc(70%);
-  width: -moz-calc(70%);
-  width: calc(70%);
+  width: -webkit-calc(65%);
+  width: -moz-calc(65%);
+  width: calc(65%);
   float: left;
   padding-left: 10px;
   padding-right: 10px;
@@ -3190,9 +3190,9 @@ footer .footer-section button {
 }
 
 .contact-section ul li {
-  width: -webkit-calc(33.33333%);
-  width: -moz-calc(33.33333%);
-  width: calc(33.33333%);
+  width: -webkit-calc(25%);
+  width: -moz-calc(25%);
+  width: calc(25%);
   float: left;
   padding-left: 10px;
   padding-right: 10px;
